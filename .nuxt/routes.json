@@ -1,0 +1,51 @@
+[
+  {
+    "path": "/",
+    "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\layout\\\\index.vue",
+    "children": [
+      {
+        "path": "/",
+        "name": "home",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\home\\\\index.vue",
+        "_name": "_6fb2e7ec"
+      },
+      {
+        "path": "/login",
+        "name": "login",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\login\\\\index.vue",
+        "_name": "_76a32cc0"
+      },
+      {
+        "path": "/register",
+        "name": "register",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\login\\\\index.vue",
+        "_name": "_76a32cc0"
+      },
+      {
+        "path": "/profile/:username",
+        "name": "profile",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\profile\\\\index.vue",
+        "_name": "_2d3aeec0"
+      },
+      {
+        "path": "/settings",
+        "name": "settings",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\settings\\\\index.vue",
+        "_name": "_d9d1b4b0"
+      },
+      {
+        "path": "/editor",
+        "name": "editor",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\editor\\\\index.vue",
+        "_name": "_2f8dab44"
+      },
+      {
+        "path": "/article/:slug",
+        "name": "article",
+        "component": "D:\\\\lagou\\\\class-tasks-3-3\\\\nuxt项目\\\\readworld-nuxt\\\\pages\\\\article\\\\index.vue",
+        "_name": "_5a30ed5a"
+      }
+    ],
+    "_name": "_52ffc881"
+  }
+]
